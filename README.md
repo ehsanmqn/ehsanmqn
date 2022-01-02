@@ -2,7 +2,7 @@
 - 👀 I’m a creative software engineer and ML specialist. 
 - 🌱 I’m passionate about open source and building things.
 - 💞️ I’m enthusiastic about being part of something greater than myself and learning from more experienced people every time I meet them.
-- 📫 How to reach me? Contact me via ehsan.maiqani@gmail.com
+- 📫 How to reach me? Contact me via ehsan[dot]maiqani[at]gmail[dot]com
 
 <!---
 ehsanmqn/ehsanmqn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
