@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ehsanmqn
-- 👀 I’m a creative software engineer and ML specialist. 
+- 👀 I’m a software engineer and ML specialist. 
 - 🌱 I’m passionate about open source and building things.
 - 💞️ I’m enthusiastic about being part of something greater than myself and learning from more experienced people every time I meet them.
 - 📫 How to reach me? Contact me via ehsan{"/dot"}maiqani{"/at"}gmail{"/dot"}com
