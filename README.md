@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ehsanmqn - Co-founder at the [Uptin PTT](https://www.uptin.app/en/home)
+- 👋 Hi, I’m @ehsanmqn
 - 👀 I’m a software engineer.
 - 🌱 I’m passionate about ML, and Machine Vision.
 - 💞️ I’m enthusiastic about being part of something greater than myself and learning from more experienced people every time I meet them.
